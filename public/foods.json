@@ -1,0 +1,140 @@
+[
+  {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+      "ingredients": [
+          "200g spaghetti",
+          "100g pancetta, diced",
+          "2 large eggs",
+          "50g grated Parmesan cheese",
+          "2 cloves garlic, minced",
+          "Salt and black pepper to taste",
+          "Fresh parsley for garnish"
+      ],
+      "instructions": [
+          "Cook spaghetti in boiling salted water until al dente.",
+          "In a pan, cook pancetta and garlic until crispy.",
+          "Whisk eggs and Parmesan in a bowl.",
+          "Drain pasta and add to the pancetta pan. Remove from heat.",
+          "Quickly stir in the egg mixture to create a creamy sauce.",
+          "Season with salt and pepper, garnish with parsley, and serve."
+      ],
+      "image": "https://images.unsplash.com/photo-1588013273468-315fd88ea34c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+      "id": 2,
+      "name": "Chicken Tikka Masala",
+      "description": "A flavorful Indian dish with marinated chicken in a creamy tomato sauce.",
+      "ingredients": [
+          "500g chicken breast, cubed",
+          "1 cup yogurt",
+          "2 tbsp tikka masala spice mix",
+          "1 onion, finely chopped",
+          "2 tomatoes, pureed",
+          "1 cup heavy cream",
+          "2 tbsp vegetable oil",
+          "Salt to taste",
+          "Fresh cilantro for garnish"
+      ],
+      "instructions": [
+          "Marinate chicken in yogurt and tikka masala spice mix for 1 hour.",
+          "Heat oil in a pan and cook chicken until browned.",
+          "Add onions and cook until soft.",
+          "Stir in tomato puree and cook for 10 minutes.",
+          "Add cream and simmer until the sauce thickens.",
+          "Garnish with cilantro and serve with rice or naan."
+      ],
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+      "id": 3,
+      "name": "Beef Burger",
+      "description": "A juicy beef burger with fresh toppings and a soft bun.",
+      "ingredients": [
+          "500g ground beef",
+          "4 burger buns",
+          "1 tomato, sliced",
+          "1 onion, sliced",
+          "Lettuce leaves",
+          "4 slices cheddar cheese",
+          "Salt and pepper to taste",
+          "2 tbsp vegetable oil"
+      ],
+      "instructions": [
+          "Shape ground beef into patties and season with salt and pepper.",
+          "Heat oil in a pan and cook patties for 4-5 minutes on each side.",
+          "Add cheese slices to the patties and let them melt.",
+          "Toast burger buns and assemble with lettuce, tomato, onion, and patties.",
+          "Serve with fries or a side salad."
+      ],
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+      "id": 4,
+      "name": "Vegetable Stir-Fry",
+      "description": "A healthy and colorful stir-fry with fresh vegetables and a savory sauce.",
+      "ingredients": [
+          "1 cup broccoli florets",
+          "1 bell pepper, sliced",
+          "1 carrot, sliced",
+          "1 cup snap peas",
+          "2 tbsp soy sauce",
+          "1 tbsp sesame oil",
+          "1 clove garlic, minced",
+          "1 tsp ginger, minced",
+          "1 tbsp sesame seeds"
+      ],
+      "instructions": [
+          "Heat sesame oil in a wok or large pan.",
+          "Add garlic and ginger, and sauté for 1 minute.",
+          "Add all vegetables and stir-fry for 5-7 minutes.",
+          "Pour in soy sauce and toss to coat.",
+          "Sprinkle with sesame seeds and serve hot."
+      ],
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80"
+  },
+  {
+      "id": 5,
+      "name": "Chocolate Lava Cake",
+      "description": "A decadent dessert with a gooey chocolate center.",
+      "ingredients": [
+          "100g dark chocolate",
+          "100g butter",
+          "100g sugar",
+          "2 eggs",
+          "50g flour",
+          "1 tsp vanilla extract",
+          "Powdered sugar for dusting"
+      ],
+      "instructions": [
+          "Preheat oven to 180°C (350°F).",
+          "Melt chocolate and butter together.",
+          "Whisk eggs and sugar until fluffy, then mix in the chocolate mixture.",
+          "Fold in flour and vanilla extract.",
+          "Pour batter into greased ramekins and bake for 10-12 minutes.",
+          "Dust with powdered sugar and serve warm."
+      ],
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+  },
+  {
+      "id": 6,
+      "name": "Caesar Salad",
+      "description": "A classic salad with crisp romaine lettuce, croutons, and Parmesan cheese.",
+      "ingredients": [
+          "1 head romaine lettuce, chopped",
+          "1 cup croutons",
+          "50g Parmesan cheese, shaved",
+          "1/2 cup Caesar dressing",
+          "1 chicken breast, grilled and sliced (optional)",
+          "Salt and pepper to taste"
+      ],
+      "instructions": [
+          "Toss lettuce, croutons, and Parmesan in a large bowl.",
+          "Add Caesar dressing and mix well.",
+          "Top with grilled chicken slices if desired.",
+          "Season with salt and pepper, and serve immediately."
+      ],
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+  }
+]
